@@ -1,3 +1,14 @@
+// Question Number One
+// Design a Calculator class which contains four lambda
+//        methods:
+//        a. add(a, b) b.
+//        difference(a, b) c.
+//        product(a, b) d.
+//        safeDivision(a, b)
+//        Also design the main methods which pass actual parameters to test the
+//        Calculator class
+
+
 import java.util.Scanner;
 
 public class Calculator{

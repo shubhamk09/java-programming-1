@@ -1,4 +1,12 @@
-package cipherschools;
+//Question 6
+
+// Write a program, creating a class which contains a method that would print
+//        the information (name, year of joining, salary, address) of three employees by
+//        creating a class named 'Employee'. The output should be as follows:
+//        Name Year of joining Address
+//        Robert 1994 64C- WallStreet
+//        Sam 2000 68D- WallStreet
+//        John 1999 26B- WallStreet
 
 public class Employee {
 

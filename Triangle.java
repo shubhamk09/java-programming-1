@@ -1,3 +1,9 @@
+//Question 7
+
+//Write a program, creating a Triangle class which contains a method that takes
+//        three parameters of the three sides of the triangle, ‘a’, ‘b’, ‘c’, and returns you with
+//        the area of the triangle and print it.
+
 
 import java.util.Scanner;
 

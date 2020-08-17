@@ -1,3 +1,10 @@
+//Question 8
+// Write a program, creating a class containing the generic method which
+//        accepts only numbers, generating a custom exception when passed with the
+//        String value. The functionality of the generic method is to print the 2/3 of the
+//        passed value.
+
+
 import java.util.Scanner;
 
 class MyException extends Exception{

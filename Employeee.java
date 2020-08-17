@@ -1,3 +1,15 @@
+//Question three
+//Write a program, creating an Employee class containing details of empId,
+//        empName, empDesignation, empSalary and empLocation. Create necessary
+//        methods like getters, setters and toString. Create 10 instances of the same.
+//        The problem is to generate stream of all the instances and do the following
+//        operations:
+//        a. Print the name of all the employees. b. Print all
+//        the salaries which are greater than 50,000/- c. Print
+//        all the locations starting with the letter ‘M’ d. Print
+//        all the designations ending with ‘E’
+
+
 import java.util.*;
 class Employee2{
     int empId, empSalary;
